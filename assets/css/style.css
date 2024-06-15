@@ -2517,9 +2517,10 @@ input:checked + .slider:before {
  
 .contact_info {
 	padding: 63px;
-	border-radius:10px;
+	border-radius:50px;
 	/* border-radius: 10px 0 0 10px; */
 	height: 100%;
+	border: 2px solid white;
 }
 .sub-title.white {
 	color: #fff;
@@ -2571,7 +2572,7 @@ input:checked + .slider:before {
 	height: 100%;
 }
 .contact-main .row {
-	gap: 2px;
+	/* gap: 2px; */
 	margin: 0;
 }
 .contact-main .col-lg-4,
